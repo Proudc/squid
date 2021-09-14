@@ -1,0 +1,2 @@
+/home/changzhihao/mm/ST-Matching-master/STmatching_distribution_ver.py:46: UserWarning: DataFrame columns are not unique, some columns will be omitted.
+  edge_dist_dict = edge_dist.set_index('idx').T.to_dict('list')

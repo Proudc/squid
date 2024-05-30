@@ -110,3 +110,31 @@ squid/start_dtjmr.sh
 ```
 squid/start_dtj_mr_c.sh
 ```
+
+
+
+## Contributors
+
+- Zhihao Chang: changzhihao@zju.edu.cn
+
+
+
+## Reference
+If you want to use this code, please cite:
+```
+@article{DBLP:journals/vldb/ZhangCYLTCC23,
+  author       = {Dongxiang Zhang and
+                  Zhihao Chang and
+                  Dingyu Yang and
+                  Dongsheng Li and
+                  Kian{-}Lee Tan and
+                  Ke Chen and
+                  Gang Chen},
+  title        = {{SQUID:} subtrajectory query in trillion-scale {GPS} database},
+  journal      = {{VLDB} J.},
+  volume       = {32},
+  number       = {4},
+  pages        = {887--904},
+  year         = {2023},
+}
+```
